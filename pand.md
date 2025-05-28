@@ -1,4 +1,5 @@
 # Óriáspanda
+[oriáspanda](./img)
 Az óriáspanda (Ailuropoda melanoleuca), eredeti rendszertani nevén Ursus melanoleuca (fekete-fehér medve), vagy bambuszmedve a **medvefélék** (*Ursidae*) családjába tartozó emlős. Elterjedése csak maradványfoltokra korlátozódik Közép- és Dél-Kínában.
 
 Nemének az egyetlen recens faja és egyben a típusfaja is.
